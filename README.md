@@ -48,7 +48,7 @@ Interactive and filterable visuals were designed in Power BI using a variety of 
 ## 📊 Dashboard Features & Insights
 
 ### 🏠 Home Overview
-![Home Overview](images/Home%20Overview.png)
+![Home Overview](images/Home Overview (1).png)
 
 ### 💳 Loan Analysis
 ![Loan Analysis](images/Loan%20Analysis.png)
